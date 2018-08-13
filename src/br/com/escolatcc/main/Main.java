@@ -8,7 +8,6 @@ public class Main {
 		
 		TelaLogin i = new TelaLogin();
 		i.setVisible(true);
-		System.out.println("awd");
 
 	}
 
